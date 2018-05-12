@@ -1,3 +1,9 @@
+<html>
+<title>bootstrap</title>
+<body>
+<head>
+</head>
+<h1>hello my code</h1>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -11,3 +17,5 @@
     </ul>
   </div>
 </nav>
+</body>
+</html>
